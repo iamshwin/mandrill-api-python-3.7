@@ -1,5 +1,6 @@
 # Fork for python 3.7 support
 
+`pip install git+https://github.com/Kozea/mandrill-api-python-3.7.git` to install
 
 Mandrill is a Python API client and suite of CLI-based tools for the Mandrill email as a platform service.
 
